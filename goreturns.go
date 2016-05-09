@@ -20,7 +20,7 @@ import (
 
 	"golang.org/x/tools/imports"
 
-	"sourcegraph.com/sqs/goreturns/returns"
+	"github.com/koofr/goreturns/returns"
 )
 
 var (
